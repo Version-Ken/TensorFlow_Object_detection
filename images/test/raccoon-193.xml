@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>raccoon-193.jpg</filename>
+	<path>E:\PythonWorkSpace\TensorFlow_Object_Detection_wdj\images\test\raccoon-193.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>852</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>257</ymin>
+			<xmax>371</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>

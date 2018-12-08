@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>toy24.jpg</filename>
+	<path>C:\Users\93203\Desktop\images\toy24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>55</ymin>
+			<xmax>453</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
